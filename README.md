@@ -1,6 +1,6 @@
-#Corporate
+# Corporate
 
-###Generate letters from corporate and Tweet like corporate! 
+### Generate letters from corporate and Tweet like corporate! 
 
 A newly updated version of [this](https://github.com/segalgouldn/python-scripts-for-fun/tree/master/corporate) project.
 
